@@ -1,5 +1,7 @@
 MA3206: Artificial Intelligence - Assignment 4
 Task 1 & Task 2: Graph Scheduling Algorithms (Greedy vs. A* Search)
+================================================================================
+
 
 Description
 -----------
